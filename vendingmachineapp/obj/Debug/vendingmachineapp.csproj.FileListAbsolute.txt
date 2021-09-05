@@ -1,0 +1,10 @@
+D:\techdocumentation\Resume\syngymaximsolutions\vendingmachineapp\vendingmachineapp\bin\Debug\vendingmachineapp.exe.config
+D:\techdocumentation\Resume\syngymaximsolutions\vendingmachineapp\vendingmachineapp\bin\Debug\vendingmachineapp.exe
+D:\techdocumentation\Resume\syngymaximsolutions\vendingmachineapp\vendingmachineapp\bin\Debug\vendingmachineapp.pdb
+D:\techdocumentation\Resume\syngymaximsolutions\vendingmachineapp\vendingmachineapp\obj\Debug\vendingmachineapp.csprojAssemblyReference.cache
+D:\techdocumentation\Resume\syngymaximsolutions\vendingmachineapp\vendingmachineapp\obj\Debug\vendingmachineapp.csproj.CoreCompileInputs.cache
+D:\techdocumentation\Resume\syngymaximsolutions\vendingmachineapp\vendingmachineapp\obj\Debug\vendingmachineapp.exe
+D:\techdocumentation\Resume\syngymaximsolutions\vendingmachineapp\vendingmachineapp\obj\Debug\vendingmachineapp.pdb
+D:\techdocumentation\Resume\syngymaximsolutions\vendingmachineapp\vendingmachineapp\bin\Debug\ConsoleTables.dll
+D:\techdocumentation\Resume\syngymaximsolutions\vendingmachineapp\vendingmachineapp\bin\Debug\ConsoleTables.pdb
+D:\techdocumentation\Resume\syngymaximsolutions\vendingmachineapp\vendingmachineapp\obj\Debug\vendingmachineapp.csproj.CopyComplete
